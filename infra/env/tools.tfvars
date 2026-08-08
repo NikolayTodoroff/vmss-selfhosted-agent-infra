@@ -1,0 +1,5 @@
+app_name             = "vmssadoinfra"
+location             = "westeurope"
+subscription_id      = "bcaf1056-6646-4069-8a85-c154fe786b07"
+local_ip_address     = "109.120.250.37"
+admin_ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCt3OiGKin7yZHuZ8rL5wUoxuR1uDtGAx4HPl3dJ6KWvUXYaPK402TY30S0nH9m5OkQtkXm2A69Vogud5pH57RNGyjsHvc48zXaHDxMVoH9sF7iZqaN5yB599BirS2hyycG25ygR/1MiJG1VSLrni35vsrnBFOeQcoMRYG0xaewIJ+9I5Ls7KGP0L7BvBxClbZ9ST2SiwfkwZjhhqRPGI++j06wI6Zm6rgk0l3kqdjnEENss4AP9ne8+/sGlGRX9Zbux5wDPk12TZR4UwgWZClT+85PRWGyefZz31ZiT9wtdpBqqwHuNeokzrZPO5Kai3J8DVA7SZ02ms/WRRZ8huDe+V6IitPGX8UJyqBvLsjC1QRIjT8jLM1kSbHxfseBQZRr93HSzzBSaRIW9IxM2VQLxT5AplwrF+NYlfyoliwn01D8XjSmpswMOEFkwvGaZLfVyJ5T4IonbX95yq82wN2iyUP+TspLi+1zKwFXcyqXe3r83HJPul6Z2MV9DudIXJ+hyf6cYqGmOkcFXxlGPwSSvHuF1qF3Ua7U2V5GcgQU/K7Df5SGSlBrn87byM8/O4WJhmfFMfZeR5uMjNcXU6ryui7mjZGSgOFxoL8k+9HBLaopeQ4qC0NzZCvzGvOKJREJacOjK1RB9/EifHcTa/VNy22FoXzJEvGxpWGmIxw2dw== vmssadoinfra-agent-admin"
