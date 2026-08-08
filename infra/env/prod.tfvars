@@ -2,4 +2,4 @@ app_name        = "vmssadoinfra"
 environment     = "prod"
 location        = "westeurope"
 
-admin_ssh_public_key = "ssh-rsa"
+admin_ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCu1KPimvYDJXiSY5dhUU55ubnFGWWV75noVbdSn5byPBejnEibtpKJ0SkAa6iUvD0vy+EPWM80RLmcKrXs2q2Q7wX9E23hul7ySAHWM9Aby0QKXqYQhq3Q+E8ao041wVrLl0znyLclgdif2R/0I99PqH1N7M3IAo2f8BZ+cvxE6bAOI/cOwkpXt3EwXpluuzAPk1haTI3v+bUNrHACsX3+iuJUohVydEIlIkvyLbsAuwXxDUX8afEI9Uld2k2VqdW2LItGfesKiTZb+MkEWpI3yASXtkFYWdmHUGalaBatzFVB/slQVcPRUSY1TSjz+hVrNufEWl0wwKR7UIAkojwflqYnWEkicBQHw6V9Yv9zeBPmXMadXmWKgcNA3Wq/GjTWZfzoBK/t1Wt9Vm7D+I1hoS3tEV04SUiXuvV5eOgyBmPCebUHu1yjiUy+fR17W7HBseAwxDLEfYsPS7C2IDGnjtjNxEdbhb5CwmeIfvNVjf5qNn+MM9h8QHFWSxJWRichvVhBZruwJMbUWohTj+W1PMZMGZf4NuV/wE7JLdNaDwoxkpvCGxw5+tC1DpjeY/SAqeDJhmU5wqizbzqfAKq7RUOjBMPdTx075xtxE8g4/F7y8KFMbmxq8cpF6GRGGQFBdsN5ZyDp9tQI1wEh8VxGr9+yA2jPxvTyumuhscFNxQ== vmssadoinfra-admin"
