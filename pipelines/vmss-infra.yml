@@ -12,13 +12,13 @@ parameters:
       - dev
       - prod 
 
-trigger: none
-  # branches:
-  #   include:
-  #     - main
-  # paths:
-  #   include:
-  #     - infra/**      
+trigger:
+  branches:
+    include:
+      - main
+  paths:
+    include:
+      - infra/**      
 
 pool:
   vmImage: 'ubuntu-latest'
