@@ -15,6 +15,13 @@ Linux VM Scale Set behind a Standard Load Balancer with Azure Bastion, NAT Gatew
 
 ---
 
+## Pipeline Runs and Stages
+
+![Pipelines Runs](./docs/images/vmss_selfhosted_agent_runs.png)
+![Pipelines Stages](./docs/images/vmss_selfhosted_agent_stages.png)
+
+---
+
 ## Repository Structure
 
 ```
